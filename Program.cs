@@ -8,6 +8,7 @@ namespace ProgramForTestPullRequest
 		{           
 			Console.WriteLine("Hello from rusden220");
 			Console.WriteLine("Hello from lambdasdk");
+			Console.WriteLine("Hello from lambdasdk again");
 			Console.ReadLine();
 		}
 	}
