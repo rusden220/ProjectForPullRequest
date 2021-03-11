@@ -7,6 +7,7 @@ namespace ProgramForTestPullRequest
 		public static void Print(string msg)
 		{
 			Console.WriteLine(msg);
+			Console.WriteLine("3");
 		}
 	}
 }
