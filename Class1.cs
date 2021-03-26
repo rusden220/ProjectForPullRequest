@@ -4,7 +4,7 @@ namespace ProgramForTestPullRequest
 {
 	class Class1
 	{
-		public void ToDo()
+		public void DoNothing()
 		{
 			
 		}
